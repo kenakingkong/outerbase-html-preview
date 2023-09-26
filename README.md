@@ -18,12 +18,18 @@ A table column storing a string.
 
 ## Demo (video)
 
-/demo/outerbase-plugin-html-preview-demo.mp4
+[Watch the video](/demo/outerbase-plugin-html-preview-demo.mp4)
 
 ## Demo (screenshots)
 
+#### Before adding the Plugin
+
 ![Screenshot of the table before adding the plugin](/demo/outerbase-plugin-html-preview-img-before.png "Before adding the Plugin")
 
+#### After adding the Plugin
+
 ![Screenshot of the table after adding the plugin](/demo/outerbase-plugin-html-preview-img-after.png "After adding the plugin")
+
+#### Using the Plugin
 
 ![Screenshot of the table while using the plugin](/demo/outerbase-plugin-html-preview-img-during.png "Using the plugin")
