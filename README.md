@@ -17,8 +17,7 @@ A table column storing a string.
 
 
 ## Demo (video)
-
-[Watch the video](/demo/outerbase-plugin-html-preview-demo.mp4)
+https://github.com/kenakingkong/outerbase-html-preview/assets/33800408/84d898d6-58a6-49b1-9cf7-d96c991fd163
 
 ## Demo (screenshots)
 
