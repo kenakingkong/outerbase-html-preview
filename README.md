@@ -2,7 +2,7 @@
 
 This [Outerbase](https://outerbase.com/) plugin let's you preview HTML stored in a database.
 
-Read the full [Hashnode](https://hashnode.com/) article, [Creating an HTML Preview Plugin for Outerbase]().
+Read the full [Hashnode](https://hashnode.com/) article, [Creating an HTML Preview Plugin for Outerbase](https://makenakong.hashnode.dev/outerbase-plugin-creating-an-html-preview-plugin).
 
 ## What's required?
 
